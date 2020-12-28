@@ -1,3 +1,5 @@
+![](2020-12-28-14-00-50.png)
+
 This is a new attempt at a new organizational electronic system for my notes and thoughts for 2021. Recently, I have pondered the ever-present question in my mind: what's the point of reading if you can't remember or use what you read? While I have seen first hand how effective organizational systems can be, I saw first hand how I'd fall out of habit. Organizational systems are like workouts- the simpler they are, the more likely I'll workout. My initial organization system was based on org mode and emacs but -like regexes- I would have to learn the shortcuts again once my memory retention period elapses and those configuration files became too cumbersome. 
 
 I wanted to simplify note taking as much as possible, so here are my requirements:
