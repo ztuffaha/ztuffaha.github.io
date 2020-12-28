@@ -32,4 +32,6 @@ So, what kind of things I intend to write about?
 - journal entries about my ______ life and my _______ hats
 - pickleball (that's right)... I even take notes on pickleball
 
-What gets published is a quarter of that noise hopefully... This is a habit that I have been looking to foster for a while.. it's almost like a super power I tell you.. 
+What gets published is a quarter of that noise hopefully... This is a habit that I have been looking to foster for a while.. it's almost like a super power I tell you.. and I can even gif 
+
+![](sample.gif)
